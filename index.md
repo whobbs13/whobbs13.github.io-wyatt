@@ -31,4 +31,3 @@ We compared difficulty ratings and desire for prelecture videos.
 ## Graph 3: Line Chart ##
 <img src="https://whobbs13.github.io/ex_09hw/static/imgs/graph3.png" alt="Graph 3"/>
 We found a positive correlation between students thinking the class is difficult and wanting the videos.
->>>>>>> 49d4d644cdf73778a845093628c002fc2b650b70
