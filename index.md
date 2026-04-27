@@ -24,5 +24,5 @@ We found a positive correlation between difficulty rating and desire to have pre
 We compared difficulty ratings and desire for prelecture videos.
 
 ## Graph 3: Line Chart ##
-<img src="<https://whobbs13.github.io/wyatt/static/imgs/graph3.pdf" alt="Graph 3"/>
+<img src="https://whobbs13.github.io/wyatt/static/imgs/graph3.pdf" alt="Graph 3"/>
 We found a positive correlation between students thinking the class is difficult and wanting the videos.
